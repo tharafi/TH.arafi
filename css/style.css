@@ -69,6 +69,7 @@ body{
     font-size: 56px;
     font-weight: 700;
     line-height: 1,2;
+    z-index: 1;
 }
 .home-content h1::before{
     content: '';
@@ -86,6 +87,7 @@ body{
     font-size: 32px;
     font-weight: 700;
     color: #00abf0;
+    z-index: 1;
 }
 .home-content h3::before{
     content: '';
@@ -102,6 +104,7 @@ body{
     position: relative;
     font-size: 16px;
     margin: 20px 0 40px;
+    z-index: 1;
 }
 .home-content p::before{
     content: '';
